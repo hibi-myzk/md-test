@@ -3,8 +3,10 @@
 
 ---
 
-<p>同期されるかな？</p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h1 id="テスト">テスト</h1>
+<p>テストです。</p>
+<ul>
+<li>テスト</li>
+<li>テスト</li>
+</ul>
 
